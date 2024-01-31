@@ -4,3 +4,5 @@ Git Branch
 
 Git Practice - 2
 Git Merge
+
+I have modified the git file for merging using git.
