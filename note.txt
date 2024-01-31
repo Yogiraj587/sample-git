@@ -1,2 +1,4 @@
 Hello,This is a text file.
 This tells about git commit.
+
+The main aim of this repo is to get idea about git merge.
